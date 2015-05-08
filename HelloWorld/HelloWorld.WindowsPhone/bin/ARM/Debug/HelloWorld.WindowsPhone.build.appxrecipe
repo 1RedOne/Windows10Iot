@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BEHEMOTH</Machine>
+    <WindowsUser>stephen</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>f01606cc-4fab-4ed8-9868-4be091026192</PackageIdentityName>
+    <IntermediateOutputPath>c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\bin\ARM\Debug\HelloWorld.WindowsPhone.exe">
+      <PackagePath>HelloWorld.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\bin\ARM\Debug\HelloWorld.WindowsPhone.xr.xml">
+      <PackagePath>HelloWorld.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.WindowsPhone\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

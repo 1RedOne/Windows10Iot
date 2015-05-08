@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN10</Machine>
+    <WindowsUser>Stephen</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>d00ad455-15c0-48f3-8217-4a51c14319f1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.exe">
+      <PackagePath>HelloWorld.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\Appa.png">
+      <PackagePath>Assets\Appa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\Foxdeploy_DEPLOY_large.png">
+      <PackagePath>Assets\Foxdeploy_DEPLOY_large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.xr.xml">
+      <PackagePath>HelloWorld.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

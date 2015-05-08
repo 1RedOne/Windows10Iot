@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BEHEMOTH</Machine>
+    <WindowsUser>stephen</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d00ad455-15c0-48f3-8217-4a51c14319f1</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B42B5A29AAA0B98E2F7B0ACE4FF0FDB5DD88C028A045B0BFFCEE272E189507AE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d00ad455-15c0-48f3-8217-4a51c14319f1_1.0.0.0_neutral__mz2dvbftqr496</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d00ad455-15c0-48f3-8217-4a51c14319f1_mz2dvbftqr496!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d00ad455-15c0-48f3-8217-4a51c14319f1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=stephen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-08T20:37:58.665</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\HelloWorld.Windows.exe">
+      <PackagePath>HelloWorld.Windows.exe</PackagePath>
+      <Modified>2015-05-08T20:44:35.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T23:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T23:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T23:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T23:08:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-08T20:37:58.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-08T20:44:35.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\HelloWorld.Windows.xr.xml">
+      <PackagePath>HelloWorld.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-08T20:44:35.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\stephen\documents\visual studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-08T20:37:58.508</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

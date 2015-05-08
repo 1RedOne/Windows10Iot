@@ -1,0 +1,64 @@
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\App.g.i.cs
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\App.g.cs
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MainPage.g.i.cs
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MainPage.g.cs
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\App.xaml
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\App.xbf
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\XamlSaveStateFile.xml
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\App.xbf
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\MainPage.xbf
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.xr.xml
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.exe
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.pdb
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\resources.pri
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\AppxManifest.xml
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.build.appxrecipe
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MainPage.xaml
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MainPage.xbf
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\HelloWorld.Windows.exe
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\HelloWorld.Windows.pdb
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\priconfig.xml
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\priconfig.xml.intermediate
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\layout.resfiles
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\layout.resfiles.intermediate
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\resources.resfiles
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\resources.resfiles.intermediate
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\pri.resfiles
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\pri.resfiles.intermediate
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\qualifiers.txt
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\qualifiers.txt.intermediate
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\Users\Stephen\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\App.xbf
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\MainPage.xbf
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.xr.xml
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.exe
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.pdb
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\resources.pri
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\bin\ARM\Debug\HelloWorld.Windows.build.appxrecipe
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\App.g.i.cs
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\App.g.cs
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\App.xaml
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MainPage.xaml
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\App.xbf
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MainPage.xbf
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\HelloWorld.Windows.exe
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\HelloWorld.Windows.pdb
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\priconfig.xml
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\layout.resfiles
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\resources.resfiles
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\pri.resfiles
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\qualifiers.txt
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\obj\ARM\Debug\ProjectArchitectures.txt

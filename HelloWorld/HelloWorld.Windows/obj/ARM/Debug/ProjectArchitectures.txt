@@ -1,0 +1,1 @@
+C:\Users\Stephen\Desktop\HelloWorld\HelloWorld\HelloWorld.Windows\HelloWorld.Windows.csproj;arm

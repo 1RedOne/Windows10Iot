@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="HelloWorld.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelloWorld"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBox x:Name="HelloMessage" Text="Hello, World!" Margin="10" IsReadOnly="True"/>
+            <Button x:Name="ClickMe" Content="Click Me!"  Margin="10" HorizontalAlignment="Center" Click="ClickMe_Click" Height="86" Width="216" Background="#FF18BCE0" FontSize="29.333"/>
+
+        </StackPanel>
+        <Button Name="btnBeep" Margin="562,603,0,107" Click="btnBeep_Click" Height="58" Width="108">Beep</Button>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="274" Margin="968,419,0,75" VerticalAlignment="Center" Width="270" Source="Assets/Appa.png"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="70" Text="This changes everything!" Margin="82,513,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontSize="21.333"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Height="158" Margin="50,58,0,0" TextWrapping="Wrap" Text="FoxDeploy Internet of Things " VerticalAlignment="Top" Width="698" FontSize="64"/>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="178" Margin="846,38,0,0" VerticalAlignment="Top" Width="464" Source="Assets/Foxdeploy_DEPLOY_large.png"/>
+
+    </Grid>
+</Page>
